@@ -58,6 +58,4 @@ body {
 .heading {
   font-size: 3em;
   padding-top: 0.5em;
-  /* text-align: left; */
-  position: fixed;
 }
